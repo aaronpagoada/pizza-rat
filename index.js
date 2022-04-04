@@ -16,7 +16,7 @@ const cooldowns = new Discord.Collection();
 
 client.on('ready', () => {
   console.log(`${client.user.tag} is live!`);
-  client.user.setActivity('with Joe Byron');
+  client.user.setActivity('narde!');
 });
 
 client.on('message', (message) => {
