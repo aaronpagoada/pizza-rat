@@ -6,7 +6,7 @@ exports.lineFacts = [
     'Service began on the newly-opened 6th Avenue lines on December 15th, 1940, heading southbound towards West 4th St-Washington Square.'
   ],
   ['C',
-    'The line joins the A train on the 8th Avenue line—exactly five months from the A\'s first trip—on July 1st, 1933. It\'s initial route was from 205th St. to Jay St.'
+    'The line joins the A train on the 8th Avenue line on July 1st, 1933. It\'s initial route was from 205th St. to Jay St.'
   ],
   ['D',
     'Also commencing service on the same date as the B—December 15th, 1940—the D ran from 205th St to Hudson Terminal (the predecessor of the PATH WTC station).'  ],
