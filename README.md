@@ -1,5 +1,5 @@
 # PizzaRat
-Pizza Rat is a Discord bot that will help you get from A to B, as long as you are in NYC!
+PizzaRat is a Discord bot that will help you get from A to B, as long as you are in NYC!
 
 ## Commands
   * `t/fact`
